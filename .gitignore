@@ -1,0 +1,8 @@
+# Compiled class file
+*.class
+
+# Others
+.idea
+*.iml
+build
+config.properties
